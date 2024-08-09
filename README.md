@@ -1,4 +1,4 @@
-# Port Scanner Script
+# SSRF Port Scanner Script
 
 This Python script performs port scanning using POST requests to test different ports on a specific domain. The scan results are saved in a JSON file named `scan_results.json`.
 I developed this script while solving the [Editorial machine](https://app.hackthebox.com/machines/Editorial) on Hack The Box.
