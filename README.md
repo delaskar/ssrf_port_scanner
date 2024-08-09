@@ -27,6 +27,14 @@ python3 port_scanner.py
 
 3. When prompted, enter the initial port, the end port, and the URL where the POST requests will be sent.
 
+```bash
+Enter initial port: 4990
+Enter end port: 5010
+Enter the URL: http://editorial.htb/upload-cover
+[+] Exploring ports...
+Scan completed. Results saved to 'scan_results.json'.
+```
+
 ## Features
 
 The script will allow you to:
